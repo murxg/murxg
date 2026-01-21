@@ -8,3 +8,6 @@ https://www.sololearn.com/certificates/CC-F5KW5TAA
 
 and Generative AI In Practice
 https://www.sololearn.com/certificates/CC-2HALARGA
+
+Python Intermediate
+https://www.sololearn.com/certificates/CC-ELFHMXCV
